@@ -1,0 +1,25 @@
+CPF                PRIVATE     INCOMPLETO  DATA DA ÚLTIMA COMPRA TICKET MÉDIO          TICKET DA ÚLTIMA COMPRA LOJA MAIS FREQUÊNTE LOJA DA ÚLTIMA COMPRA
+041.091.641-25   s  0           0           NULL                  NULL                  NULL                    NULL                NULL
+058.189.421-98     0           0           NULL                  NULL                  NULL                    NULL                NULL
+769.013.439-49     0           0           NULL                  NULL                  NULL                    NULL                NULL
+101.520.857-69     0           0           NULL                  NULL                  NULL                    NULL                NULL
+077.844.088-54     0           0           NULL                  NULL                  NULL                    NULL                NULL
+058.100.109-54     0           0           NULL                  NULL                  NULL                    NULL                NULL
+255.917.618-10     0           1           NULL                  NULL                  NULL                    NULL                NULL
+050.984.859-16     1           0           NULL                  NULL                  NULL                    NULL                NULL
+023.521.319-52     0           0           NULL                  NULL                  NULL                    NULL                NULL
+891.098.302-78     0           0           NULL                  NULL                  NULL                    NULL                NULL
+046.857.249-09     0           0           NULL                  NULL                  NULL                    NULL                NULL
+050.687.169-01     0           0           NULL                  NULL                  NULL                    NULL                NULL
+952.388.751-34     0           0           NULL                  NULL                  NULL                    NULL                NULL
+705.346.679-53     1           0           NULL                  NULL                  NULL                    NULL                NULL
+375.962.668-86     0           0           NULL                  NULL                  NULL                    NULL                NULL
+947.586.549-72     0           0           NULL                  NULL                  NULL                    NULL                NULL
+363.613.018-85     0           0           NULL                  NULL                  NULL                    NULL                NULL
+289.947.928-80     0           0           NULL                  NULL                  NULL                    NULL                NULL
+402.401.349-15     0           0           NULL                  NULL                  NULL                    NULL                NULL
+053.691.729-94     0           0           NULL                  NULL                  NULL                    NULL                NULL
+748.260.008-63     0           0           NULL                  NULL                  NULL                    NULL                NULL
+008.849.669-41     0           0           NULL                  NULL                  NULL                    NULL                NULL
+207.040.890-68     0           0           NULL                  NULL                  NULL                    NULL                NULL
+232.387.559-00     0           0           NULL                  NULL                  NULL                    NULL                NULL

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcaf8e59-9f78-415d-922e-a107897d9e0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\Gabriel\sdk\go1.15.3" />
+  <component name="ProjectId" id="1jRTrUbY4w6AqT9imFQTYgqJA9k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/util" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\go\src\neoway-case\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\go\src\neoway-case\util\test-files" />
+      <recent name="C:\Users\Gabriel\go\src\neoway-case" />
+      <recent name="C:\Users\Gabriel\go\src\neoway-case\consumption-service" />
+      <recent name="C:\Users\Gabriel\go\src\neoway-case\src" />
+      <recent name="C:\Users\Gabriel\go\src\neoway-case\src\fileservice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build neoway-case/consumption-service">
+    <configuration name="go build neoway-case/consumption-service" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="neoway-case" />
+      <working_directory value="$PROJECT_DIR$" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/consumption-service/main.go" />
+      <package value="neoway-case" />
+      <directory value="$PROJECT_DIR$/consumption-service" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInvalidParse in neoway-case/util" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="neoway-case" />
+      <working_directory value="$PROJECT_DIR$/util" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="neoway-case/util" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestInvalidParse\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInvalidValidation in neoway-case/util" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="neoway-case" />
+      <working_directory value="$PROJECT_DIR$/util" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="neoway-case/util" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestInvalidValidation\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestParse in neoway-case/util" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="neoway-case" />
+      <working_directory value="$PROJECT_DIR$/util" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="neoway-case/util" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestParse\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build neoway-case/consumption-service" />
+        <item itemvalue="Go Test.TestInvalidParse in neoway-case/util" />
+        <item itemvalue="Go Test.TestInvalidValidation in neoway-case/util" />
+        <item itemvalue="Go Test.TestParse in neoway-case/util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="353" key="#Go_Modules" timestamp="1603769884233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="353" key="#Go_Modules/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603769884233" />
+    <state x="705" y="344" key="#Notifications" timestamp="1604004212976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="344" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004212976" />
+    <state x="341" y="361" key="#SQL_Dialects" timestamp="1603951316734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="341" y="361" key="#SQL_Dialects/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603951316734" />
+    <state x="414" y="56" width="1092" height="984" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603976385967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="56" width="1092" height="984" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603976385967" />
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603966281763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603966281763" />
+    <state x="1247" y="301" key="#xdebugger.evaluate" timestamp="1603976239786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1247" y="301" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603976239786" />
+    <state width="699" height="466" key="DebuggerActiveHint" timestamp="1603999830752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="699" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603999830752" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603958581745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603958581745" />
+    <state x="814" y="343" key="EnvironmentVariablesDialog" timestamp="1603971185103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="343" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603971185103" />
+    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1603983878763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603983878763" />
+    <state x="831" y="418" key="Github.ShareDialog" timestamp="1604004230051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004230051" />
+    <state width="1877" height="172" key="GridCell.Tab.0.bottom" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state width="1877" height="172" key="GridCell.Tab.0.center" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state width="1877" height="172" key="GridCell.Tab.0.left" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state width="1877" height="172" key="GridCell.Tab.0.right" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state width="1877" height="172" key="GridCell.Tab.1.bottom" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state width="1877" height="172" key="GridCell.Tab.1.center" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state width="1877" height="172" key="GridCell.Tab.1.left" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state width="1877" height="172" key="GridCell.Tab.1.right" timestamp="1604004284581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004284581" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604004272163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604004272163" />
+    <state x="681" y="261" width="636" height="524" key="StructurePopup" timestamp="1603953894495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="636" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603953894495" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1603989368007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603989368007" />
+    <state x="822" y="365" width="316" height="309" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1604002272668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="365" width="316" height="309" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604002272668" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603958581746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603958581746" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603995271953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603995271953" />
+    <state x="512" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604001085254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="512" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604001085254" />
+    <state x="1920" y="0" width="1639" height="710" key="dock-window-1" timestamp="1603976628613">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1639" height="710" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603976628613" />
+    <state x="1920" y="0" width="1639" height="733" key="dock-window-2" timestamp="1604003185448">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1639" height="733" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604003185448" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1603993014008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603993014008" />
+    <state x="803" y="281" key="refactoring.ChangeSignatureDialog" timestamp="1603953396217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="281" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603953396217" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603964336189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603964336189" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
